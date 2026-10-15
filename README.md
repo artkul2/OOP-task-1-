@@ -12,7 +12,7 @@
 
 ```bat
 scripts\run-demo.bat    :: компиляция + консольное демо
-scripts\run-tests.bat   :: компиляция + запуск 26 юнит-тестов
+scripts\run-tests.bat   :: компиляция + запуск 25 юнит-тестов
 ```
 
 JUnit-jar (`lib/junit-platform-console-standalone.jar`) уже лежит в репозитории, скачивать его не нужно. Требуется только установленный JDK 17+ (проверка: `java -version`).
